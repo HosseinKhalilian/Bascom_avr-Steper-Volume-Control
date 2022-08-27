@@ -6,9 +6,6 @@
 </p>
 
 
-**This reposetory**
-
-## 3.	Project Requirements and Dependencies / 4.	How to Set up and Run the Project ##
 ### 5.	How to make use of the Project ###
 ####	Credits/ Appreciation ####
 
