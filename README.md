@@ -7,8 +7,8 @@
 
 
 ### This repository is control the output voltage of the MCU in a stepped manner as a digital volume or etc.
-By pressing the up and down keys, we can increase or decrease the output voltage and the voltmeter at the bottom of the screen displays the output voltage of the MCU to the Load. 
-
+By pressing the up and down keys, You can increase or decrease the output voltage.
+The voltmeter displays the value of the output voltage and You can replace the voltmeter with the load.
 ###### This repository contains Source Files & Proteus Circuit Simulation Files. 
 
 ---
