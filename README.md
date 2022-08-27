@@ -6,8 +6,10 @@
 </p>
 
 
-### 5.	How to make use of the Project ###
-####	Credits/ Appreciation ####
+### This repository is control the output voltage of the MCU in a stepped manner as a digital volume or etc.
+By pressing the up and down keys, we can increase or decrease the output voltage and the voltmeter at the bottom of the screen displays the output voltage of the MCU to the Load. 
+
+###### This repository contains Source Files & Proteus Circuit Simulation Files. 
 
 ---
 
