@@ -1,7 +1,7 @@
 # Bascom_avr-Step-Volume-Control
 
 <p align="center">
-<img src="https://github.com/khalilian-ah/Bascom_avr-Steper-Volume-Control/blob/main/Pic.jpg" height="240">
+<img src="./Pic.jpg" height="240">
 </br>
 </p>
 
@@ -15,7 +15,7 @@
 ---
 
 <p align="center">
-<a href="https://github.com/khalilian-ah/Bascom_avr-Steper-Volume-Control">
+<a href="./LICENSE.md">
 <img alt="GitHub license" src="https://img.shields.io/github/license/khalilian-ah/Bascom_avr-Steper-Volume-Control?style=badge">
 </a>
 <a href="https://www.mcselec.com/">
