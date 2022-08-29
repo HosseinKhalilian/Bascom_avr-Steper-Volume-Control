@@ -1,4 +1,4 @@
-# Bascom_avr-Step-Volume-Control
+# AVR Step Volume Control
 
 <p align="center">
 <img src="./Pic.jpg" height="240">
